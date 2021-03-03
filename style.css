@@ -76,3 +76,15 @@ p { max-width: 450px;
     background-color: aquamarine;
     
 }
+a{
+    text-decoration: none;        
+}
+.article:hover{
+    color: cornflowerblue;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+    
+
